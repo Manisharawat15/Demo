@@ -1,2 +1,2 @@
-# Demo
-This is demo Project
+# Newsletter
+ SGP Blog Newsletter Template
